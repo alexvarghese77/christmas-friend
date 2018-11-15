@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
+import './login.css';
 export class Login extends Component {
     render() {
         return (
